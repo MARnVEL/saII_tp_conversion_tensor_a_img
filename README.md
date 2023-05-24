@@ -1,4 +1,4 @@
-# Ejemplos del Capítulo 3 - *Libro: Learning TensorFlow.js* -  Autor: Gant Laborde
+# Ejemplos del Capítulo 4 - *Libro: Learning TensorFlow.js* -  Autor: Gant Laborde
 
 Este repositorio tiene una página web clásica. Su ojetivo es dar respuesta a las consignas planteadas en la asignatura *Seminario de Actualización 2* de la **Tecnicatura Superior en Desarrollo de Software** dictada en el **Instituto Politécnico de Formosa (IPF)**.
 
@@ -23,7 +23,7 @@ Este repositorio tiene una página web clásica. Su ojetivo es dar respuesta a l
     <br/>
     <span>
         <a href="https://www.tensorflow.org/js?hl=es-419" target="_blank" title='TensorFlow.js'>
-            <img width="150" style="margin: 10" title='TensorFlow.js' src='https://www.tensorflow.org/static/site-assets/images/project-logos/tensorflow-js-logo-social.png?hl=es-419&sp=1683830971T11ac29b185018b83554aecf994ef3e4eee1b67c797df5e0f3c125847aeb44fa8'>
+            <img width="200" style="margin: 10" title='TensorFlow.js' src='https://www.tensorflow.org/static/site-assets/images/project-logos/tensorflow-js-logo-social.png?hl=es-419&sp=1683830971T11ac29b185018b83554aecf994ef3e4eee1b67c797df5e0f3c125847aeb44fa8'>
         </a>
     </span>
     
